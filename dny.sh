@@ -5,7 +5,9 @@
 # Date : 12/April/2025
 ################################
 
-set -exo
+set -e
+set -o
+set -x
 df -h
 free
 
