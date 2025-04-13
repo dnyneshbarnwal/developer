@@ -8,4 +8,4 @@
 #set -exo
 df -h
 free
-nproc
+
