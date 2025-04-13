@@ -10,4 +10,4 @@ set -o
 set -x
 df -h
 free
-
+nproc
