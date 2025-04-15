@@ -5,9 +5,7 @@
 # Date : 12/April/2025
 ################################
 
-set -e
-set -o
-set -x
+set -exo
 df -h
 free
 nproc
