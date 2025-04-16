@@ -181,3 +181,90 @@ touch user_data
 nano user_data
 ls
 su - neha
+ls
+git remote -v
+git remote remove origin
+
+git remote -v
+git remote add origin https://github.com/dnyneshbarnwal/developer.git
+git remote -v
+git push origin main
+git push origin main
+git push origin main
+ls
+;s
+ls
+nana-o dny.sh
+nano dny.sh
+cat dny.sh 
+ls
+git branch
+git push origin main
+cat dny.sh
+git status
+git add .
+git status
+git commit -m "set permission"
+ls
+git status
+git push origin main
+git checkout -b devops
+git status
+git branch
+nano dny.sh
+cat dny,sh
+cat dny.sh 
+ls
+git checkout main
+ls
+git branch
+cat dq
+cat dny.sh 
+git checkout devops
+cat dny.sh 
+nano dny.sh 
+cat dny.sh 
+git checkout
+git checkout main
+git branch
+cat dny.sh 
+git init
+ls
+git branch
+cat dny.sh 
+git checkout devops 
+git branch
+cat dny.sh 
+nano dny.sh 
+git status
+git add .
+git commit -m "devops upated in devops branch"
+cat dny.sh 
+git checkout main 
+cat dny.sh 
+nano dny.sh 
+git pull origin devops
+dnyneshbarnwal
+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
+cat dny.sh 
+git switch devops 
+ls
+cat dny.sh 
+git push origin devops
+git add .
+git commit -m "devops branch created git add ."
+git push origin devops 
+git switch main
+git merge devops 
+cat dny.sh 
+git push origin main
+git status
+ls
+git status
+cat dny.sh 
+logout
+ls
+dny
+clear
+su - neha
+logout
